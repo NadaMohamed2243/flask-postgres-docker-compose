@@ -32,7 +32,7 @@ This project demonstrates how to containerize a simple Flask web application and
 
 ### 1. Clone the Repository
 
-    ```bash
+    ```
     git clone https://github.com/your-username/flask-postgres-docker.git
     cd flask-postgres-docker
 
