@@ -52,12 +52,10 @@ Start both web and db containers
     docker exec -it <web_container_id_or_name> bash
 
 2. Install PostgreSQL Client & Connect
-bash
-Copy
-Edit
-apt update && apt install -y postgresql-client
-psql -h db -U user -d mydb
-📸 A screenshot of the successful connection is in screenshots/psql_output.png
+   ```
+    apt update && apt install -y postgresql-client
+    psql -h db -U user -d mydb
+
 
 🌐 Access the Web Application
 Open your browser and go to:
