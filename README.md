@@ -15,7 +15,7 @@ This project demonstrates how to containerize a simple Flask web application and
 
 ## 📁 Project Structure
 
-.
+
 ├── app.py # Flask application   
 ├── Dockerfile # Builds the web container   
 ├── requirements.txt # Python dependencies   
